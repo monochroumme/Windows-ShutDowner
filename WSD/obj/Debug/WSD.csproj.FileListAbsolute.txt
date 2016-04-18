@@ -1,0 +1,9 @@
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\bin\Debug\WSD.exe.config
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\bin\Debug\WSD.exe
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\bin\Debug\WSD.pdb
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\obj\Debug\WSD.csprojResolveAssemblyReference.cache
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\obj\Debug\WSD.WSD.resources
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\obj\Debug\WSD.Properties.Resources.resources
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\obj\Debug\WSD.csproj.GenerateResource.Cache
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\obj\Debug\WSD.exe
+c:\users\nadir\documents\visual studio 2015\Projects\WSD\WSD\obj\Debug\WSD.pdb
